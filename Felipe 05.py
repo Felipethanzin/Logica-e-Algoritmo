@@ -1,0 +1,6 @@
+print("0-Fim")
+print("1-Inclui")
+print("2-Alterar")
+print("3-Excluir")
+print("4-Consultar")
+input("")

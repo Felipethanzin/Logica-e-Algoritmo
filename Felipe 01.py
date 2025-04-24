@@ -1,6 +1,7 @@
-# LOGICA-NIVEL-1
-#2. Etiqueta - Elabore um programa que imprima seu nome na primeira linha, o estado em que você mora na segunda, e seu município na terceira.
 
-print("Felipe Miguel Caetano De Oliveira")
-print("Rio De Janeiro")
-print("Nova Iguaçu")
+print("Qual é o primeiro número?")
+numero1 = int(input())
+
+antecessor = numero1 - 1
+print("O antecessor de", numero1, "é", antecessor)
+
